@@ -1,2 +1,0 @@
-
-extension SortedSet: @unchecked Sendable {}
